@@ -21,7 +21,7 @@
 
 ### 🤖 Android (安卓手机/平板)
 *   **v2rayNG**：轻量稳定，支持多种协议。
-    *   🔗 [官方 GitHub 下载](https://github.com/2dust/v2rayNG/releases) | 📥 [直接下载 APK(如适用)]【如果你的网盘有直链，填这里】
+    *   🔗 [官方 GitHub 下载](https://github.com/2dust/v2rayNG/releases) 
 *   **Surfboard**：界面美观，使用 Surge 配置格式。
     *   🔗 [官方 GitHub 下载](https://github.com/getsurfboard/surfboard/releases)
 *   **Clash Meta for Android** (原Clash生态延续)：功能强大。
@@ -29,13 +29,13 @@
 
 ### 🪟 Windows (电脑端)
 *   **v2rayN**：Windows 下最普及的 V2Ray 客户端。
-    *   🔗 [官方 GitHub 下载 (选 v2rayN-With-Core.zip)](https://github.com/2dust/v2rayN/releases) | 📥 [直接下载免安装版]【你的直链】
+    *   🔗 [官方 GitHub 下载 (选 v2rayN-With-Core.zip)](https://github.com/2dust/v2rayN/releases) 
 *   **Clash Verge Rev**：目前最推荐的 Windows 客户端，界面现代，内核强大。
     *   🔗 [官方 GitHub 下载](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 
 ### 🍏 macOS (苹果电脑)
 *   **V2rayU**：Mac 上老牌的 V2Ray 客户端，支持中文。
-    *   🔗 [官方 GitHub 下载](https://github.com/yanue/V2rayU/releases) | 📥 [点击下载安装包]【你的直链】
+    *   🔗 [官方 GitHub 下载](https://github.com/yanue/V2rayU/releases) 
 *   **Clash Verge Rev (Mac版)**：跨平台神作，同样适用于 Mac。
     *   🔗 [官方 GitHub 下载 (M芯片选aarch64，Intel芯片选x64)](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 
