@@ -5,7 +5,7 @@
 > **🌟 【Supaboard】 - 稳定/高速/流媒体解锁/ChatGPT无忧**
 > 
 > 找不到好用的节点？欢迎体验我们的优质网络服务：
-> - 👉 **[点击访问官网，注册即送体验流量]【https://supaboard.cc】**
+> - 👉 **[点击访问官网，注册即送体验流量][https://supaboard.cc]**
 > - 💡 提供专线接入，晚高峰不卡顿，全量解锁 Netflix/Disney+/ChatGPT。
 
 ---
@@ -43,7 +43,7 @@
 
 ## 📖 快速上手教程
 
-1. **获取订阅链接**：前往 [【Supaboard】官网]【https://supaboard.cc】 注册并购买套餐，在仪表盘复制您的**订阅链接 (Subscribe URL)**。
+1. **获取订阅链接**：前往 [【Supaboard】官网][https://supaboard.cc] 注册并购买套餐，在仪表盘复制您的**订阅链接 (Subscribe URL)**。
 2. **导入客户端**：
     *   打开您下载好的客户端（如 v2rayN 或 Clash）。
     *   找到“订阅设置”或“配置”选项。
